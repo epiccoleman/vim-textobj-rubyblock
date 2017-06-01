@@ -1,3 +1,7 @@
+Coleman sez:
+I've added rspec block starters (context, describe, it), and the begin and unless keywords to this plugin.
+It's otherwise unchanged.
+
 A custom text object for selecting ruby blocks.
 
 <a href="http://flattr.com/thing/107222/vim-textobj-rubyblock-A-custom-text-object-for-selecting-ruby-blocks" target="_blank">
